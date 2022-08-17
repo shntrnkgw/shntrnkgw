@@ -38,7 +38,12 @@ With `homebrew`: https://formulae.brew.sh/cask/miniconda
 Or find an installer from: https://docs.conda.io/en/latest/miniconda.html
 
 ## 3. Create virtual environment
-In the terminal, 
+In mac, open the terminal by e.g. searching for 'terminal' in Spotlight. 
+
+In Windows, `conda` can only be used in Anaconda Prompt. 
+It can be found somewhere in the Start menu. 
+
+In the terminal (or Anaconda Prompt in Windows), 
 ```
 $ conda create --name myenv python=3.10
 ```
