@@ -1,3 +1,7 @@
+# Menu
+
+[Basic workflow for data analysis & visualization](./basic_workflow.md)
+
 # My environment
 
 ## OS
