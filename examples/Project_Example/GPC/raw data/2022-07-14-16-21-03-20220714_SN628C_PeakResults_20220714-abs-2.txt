@@ -1,0 +1,58 @@
+{
+    "InjectionGuid": "A5581865-C138-4CC3-B720-B36EB0D6EFD5",
+    "AnalysisGuid": "E115AD0D-17BE-43B2-BA06-60F433B27D50",
+    "AnalysisDate": "2022-07-14 22:02:19.8118587",
+    "0": {
+        "Mn (g/mol)": 287573.5480134108,
+        "Mw (g/mol)": 357828.2463508216,
+        "Mz (g/mol)": 495200.98712991097,
+        "IVn (dL/g)": 0.26015159993155285,
+        "IVw (dL/g)": 0.2682626486766483,
+        "IVz (dL/g)": 0.2785955294117918,
+        "Rh(?)n (nm)": 10.725871078589204,
+        "Rh(?)w (nm)": 11.212241297231191,
+        "Rh(?)z (nm)": 11.84784750815947,
+        "Mw/Mn": 1.2443016710776698,
+        "RV (mL)": 7.616666793823242,
+        "Recovery (%)": 100.0,
+        "Calc. dn/dc (mL/g)": 0.051841555461198174,
+        "M-H a": 0.4121829867362976,
+        "M-H log K (dL/g)": -2.8437209129333496,
+        "RI peak (mV mL)": 20.750856399536133,
+        "RALS peak (mV mL)": 8.255359649658203,
+        "LALS peak (mV mL)": 7.368348121643066,
+        "DP peak (mV mL)": 8.99699878692627
+    },
+    "DetectorCalibration": {
+        "RiDetector": {
+            "CalibrationConstant": 13695773.0,
+            "Offset": 0.0,
+            "EffectiveSigma": 0.0,
+            "BandBroadeningOffset": 0.0
+        },
+        "RalsDetector": {
+            "CalibrationConstant": 3.2909035496686556e-08,
+            "Offset": 0.08333333395421505,
+            "EffectiveSigma": -9.050002098083496,
+            "BandBroadeningOffset": 0.02000000048428774
+        },
+        "LalsDetector": {
+            "CalibrationConstant": 3.763555156410803e-08,
+            "Offset": 0.08333333395421505,
+            "EffectiveSigma": -8.550002098083496,
+            "BandBroadeningOffset": 0.02000000048428774
+        },
+        "DpDetector": {
+            "CalibrationConstant": 1.0,
+            "Offset": 0.18333333544433117,
+            "EffectiveSigma": -13.400001525878906,
+            "BandBroadeningOffset": 0.033333334140479565
+        },
+        "IpDetector": {
+            "CalibrationConstant": 0.0,
+            "Offset": 0.18333333544433117,
+            "EffectiveSigma": 0.0,
+            "BandBroadeningOffset": 0.0
+        }
+    }
+}

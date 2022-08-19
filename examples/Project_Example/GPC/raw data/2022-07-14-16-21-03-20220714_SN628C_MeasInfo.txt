@@ -1,0 +1,9 @@
+{
+    "Guid": "A5581865-C138-4CC3-B720-B36EB0D6EFD5",
+    "Filename": "a5581865-c138-4cc3-b720-b36eb0d6efd5",
+    "AcquisitionDateTime": "2022-07-14 16:21:03.1383117",
+    "Settings_InjectionVolume": 20.0,
+    "Settings_SampleName": "20220714_SN628C",
+    "Settings_SampleConcentration": 2.113,
+    "Settings_FlowRate": 1.0
+}

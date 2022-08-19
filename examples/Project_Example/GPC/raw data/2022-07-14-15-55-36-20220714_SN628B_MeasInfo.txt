@@ -1,0 +1,9 @@
+{
+    "Guid": "1E530A17-14F4-4A26-B98F-3022ED368C90",
+    "Filename": "1e530a17-14f4-4a26-b98f-3022ed368c90",
+    "AcquisitionDateTime": "2022-07-14 15:55:36.3240901",
+    "Settings_InjectionVolume": 20.0,
+    "Settings_SampleName": "20220714_SN628B",
+    "Settings_SampleConcentration": 2.283,
+    "Settings_FlowRate": 1.0
+}

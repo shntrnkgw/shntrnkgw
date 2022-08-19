@@ -1,0 +1,9 @@
+{
+    "Guid": "73A474C2-A2D8-4B88-A8D0-CE4FF9635291",
+    "Filename": "73a474c2-a2d8-4b88-a8d0-ce4ff9635291",
+    "AcquisitionDateTime": "2022-07-14 15:30:59.5144498",
+    "Settings_InjectionVolume": 20.0,
+    "Settings_SampleName": "20220714_SN628A",
+    "Settings_SampleConcentration": 2.303,
+    "Settings_FlowRate": 1.0
+}
