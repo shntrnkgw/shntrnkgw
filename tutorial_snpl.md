@@ -51,7 +51,7 @@ Project_Example/
      .      .
 ```
 
-I made an example of the project folder (here)[examples/Project_Example/]. 
+I made an example of the project folder (here)[./examples/Project_Example/]. 
 
 Suppose that I have a new GPC data that I want to analyze and plot. 
 I would then create a new folder dedicated to that purpose. 
