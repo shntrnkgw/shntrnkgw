@@ -2,19 +2,19 @@
 
 ## [hicsv-python](https://github.com/shntrnkgw/hicsv)
 
-  conda install hicsv-python
+    conda install hicsv-python
   
 ## [snpl](https://github.com/shntrnkgw/snpl)
 
-  pip install git+https://github.com/shntrnkgw/snpl
+    pip install git+https://github.com/shntrnkgw/snpl
 
 or 
 
-  pip install https://github.com/shntrnkgw/snpl/archive/refs/heads/main.zip
+    pip install https://github.com/shntrnkgw/snpl/archive/refs/heads/main.zip
   
 ## [scattering-geometry-tools](https://github.com/shntrnkgw/scattering-geometry-tools)
 
-  pip install scattering-geometry-tools
+    pip install scattering-geometry-tools
 
 # Docs
 
