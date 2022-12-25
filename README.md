@@ -2,7 +2,7 @@
 
 ## [hicsv-python](https://github.com/shntrnkgw/hicsv)
 
-    conda install hicsv-python
+    conda install hicsv-python -c conda-forge
   
 ## [snpl](https://github.com/shntrnkgw/snpl)
 
